@@ -1,5 +1,5 @@
 def create_an_empty_array
-  eampty[]
+  ary[]
 end
 
 def create_an_array
